@@ -111,3 +111,5 @@ Dey, S., Basuchowdhuri, P., Mitra, D., Augustine, R., Saha, S.K., Chakraborti, T
   author = {Samiran Dey and Partha Basuchowdhuri and Debasis Mitra and Robin Augustine and Sanjoy Kumar Saha and Tapabrata Chakraborti}
 }
 ```
+## License and Usage
+ⓒ Samiran Dey. The models and associated code are released under the CC-BY-NC-ND 4.0 license and may only be used for non-commercial, academic research purposes with proper attribution.
